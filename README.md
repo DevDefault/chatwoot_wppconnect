@@ -153,7 +153,7 @@ sudo apt-get install -y nodejs
 //npm update -g n8n 
 
 </p>
-sudo apt update && sudo apt upgrade y
+//sudo apt update && sudo apt upgrade y
 </p>
 //curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 </p>
@@ -165,7 +165,7 @@ sudo npm install n8n -g
 </p>
 npm update -g n8n
 </p>
-sudo apt install npm
+//sudo apt install npm
 </p>
 npm install pm2 -g
 </p>
