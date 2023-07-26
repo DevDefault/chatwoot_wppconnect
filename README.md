@@ -150,14 +150,14 @@ curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 
 sudo apt-get install -y nodejs
 
-npm update -g n8n 
+//npm update -g n8n 
 
 </p>
 sudo apt update && sudo apt upgrade y
 </p>
-curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+//curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 </p>
-sudo apt-get install -y nodejs
+//sudo apt-get install -y nodejs
 </p>
 node -v
 </p>
