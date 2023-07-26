@@ -138,7 +138,19 @@ WIDGET_BRAND_URL
 <hr />
 
 **Manual de Instalação N8N**
+**Upgrade N8N para NODE 18**
 
+sudo apt-get remove nodejs
+
+sudo apt-get purge nodejs
+
+sudo apt-get autoremove
+
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+
+sudo apt-get install -y nodejs
+
+npm update -g n8n 
 
 </p>
 sudo apt update && sudo apt upgrade y
